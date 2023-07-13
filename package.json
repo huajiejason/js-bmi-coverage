@@ -1,0 +1,11 @@
+{
+  "name": "@codecoverage/example-javascript",
+  "version": "0.0.1",
+  "description": "Codecoverage Example Javascript",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
